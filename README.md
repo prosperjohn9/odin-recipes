@@ -1,7 +1,7 @@
 # Odin Recipes
 This is a practice of all knowledge learnt from html section of the odin project. 
 
-It is a project to build a basic recipe website
+It is a project to build a basic recipe website.
 
 
 A collection of recipes for the Odin Project.
@@ -20,4 +20,4 @@ Recipe Site: [recipe-site](https://www.allrecipes.com/)
 
 
 # Objectives
-Build a page based on the Provided Assets
+Build a page based on the Provided Assets.
